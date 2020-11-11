@@ -1,0 +1,23 @@
+#img-logo {
+  width: 100px;
+  height: 50px;
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+}
+
+.dropdown-menu {
+  margin-top: 0;
+}
+
+@media (max-width: 576px) {
+  #nav-links {
+    display: none;
+  }
+}
+
+#jumbotron {
+  height: 70vh;
+}
+
